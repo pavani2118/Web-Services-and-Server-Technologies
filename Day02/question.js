@@ -11,7 +11,7 @@ let students = [
     {regno:'2021/ict/05',name:'Raja',course:'IT',gpa:2.01,gender:'M'},
     {regno:'2021/ict/06',name:'Windy',course:'PM',gpa:2.90,gender:'F'},
     {regno:'2021/ict/07',name:'Shiro',course:'AMC',gpa:1.89,gender:'F'},
-    {regno:'2021/ict/08',name:'Yeheni',course:'IT',gpa:3.83,gender:'F'},
+    {regno:'2021/ict/08',name:'Pavani',course:'IT',gpa:3.83,gender:'F'},
     {regno:'2021/ict/09',name:'Ravindu',course:'PM',gpa:3.04,gender:'M'},
     {regno:'2021/ict/10',name:'Nimsilu',course:'CS',gpa:4.0,gender:'M'},
     ]
