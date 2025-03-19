@@ -7,3 +7,8 @@
 
 <img src="output\Day02_practical2.png">
 
+
+#Practical3.js output:
+
+<img src="output\Day02_practical3.png">
+
