@@ -5,5 +5,5 @@
 
 #Practical2.js output:
 
-<img src="utput\Day02_practical2.png">
+<img src="output\Day02_practical2.png">
 
