@@ -1,3 +1,4 @@
+//Java Script Array
 let arr=["apple","banana","pineapple"]
 console.log(arr);
 console.log(typeof(arr))
