@@ -10,5 +10,4 @@
 
 #Practical3.js output:
 
-<img src="output\Day02_practical3.png">
-
+<img src="output\Day02_practical3.png">  
