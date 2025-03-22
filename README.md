@@ -1,17 +1,5 @@
 # IT2234-WEB SERVICE PRACTICAL
-<h2>Day01</h2>
-#Practical1.js output:
-<img src="img\practical1output.png">
+| Day  | Links|
+|----------|----------|
+|2025/03/12 |[Day01](https://github.com/pavani2118/Design-and-Analysis-of-Algorithms/tree/main/Day01)  |
 
-#Practical2.js output
-<img src="img\practical2output.png">
-
-
-<h2>Day02</h2>
-#Practical1.js output:
-<img src="img\Day02_practical1.png">
-
-
-#Practical2.js output:
-
-<img src="img\Day02_practical2.png">
