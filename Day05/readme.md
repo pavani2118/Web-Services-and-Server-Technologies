@@ -34,24 +34,22 @@ All powered by an in-memory JSON array — no database needed! ⚡
 ```bash
 npm install express
 
+
 ▶️ Run the Server
+
 node app.js
+
 📡 Server runs at: http://localhost:3001
 
 🔌 API Endpoints
 🌍 GET /
-Welcome endpoint
+  Welcome endpoint
 
-txt
-Copy
-Edit
 Hello IT Students
+
 📚 GET /stu
 Returns all students
 
-json
-Copy
-Edit
 [
   {
     "regNo": "2021ICT78",
@@ -67,9 +65,6 @@ Find a student by registration number
 
 📥 Example:
 
-bash
-Copy
-Edit
 /stu/2021ICT47
 ✅ Found:
 
