@@ -21,11 +21,5 @@ This repository contains JavaScript scripts demonstrating fundamental mathematic
 3. Run the script using:
    ```javascript
    node operations.js
-<h2><center>Day01</center></h2>
 
-Practical1.js output:
-<img src="output\practical1output.png">
-
-Practical2.js output:
-<img src="output\practical2output.png">
 
