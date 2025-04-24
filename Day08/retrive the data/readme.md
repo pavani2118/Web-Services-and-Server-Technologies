@@ -36,9 +36,10 @@ If you don't want it, you have to explicitly exclude it:
   _id: 0 means the _id field is excluded from the results.
   
 1.4 Viewing Data in Table Format 📊
-        MongoDB Compass often displays retrieved data in a table format, which can be very helpful. 
-        Each document becomes a row, and the fields are the columns. 
-        This makes it easy to see the data in a structured way.
+
+MongoDB Compass often displays retrieved data in a table format, which can be very helpful. 
+Each document becomes a row, and the fields are the columns. 
+This makes it easy to see the data in a structured way.
 
 2. Tools You'll Use 🛠️
    
