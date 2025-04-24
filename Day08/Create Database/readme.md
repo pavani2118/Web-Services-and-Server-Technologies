@@ -22,10 +22,7 @@
    - **Collection Name** → `students`
 4. ✅ Hit **Create Database**.
 
-> 💡 *Congrats!* You've created your first database and collection!
-
 ![Create Database](./create%20database.png)
-![Compass View](./output.png)
 
 ---
 
