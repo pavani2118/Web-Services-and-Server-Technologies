@@ -1,7 +1,8 @@
 🔍 Retrieving Data from MongoDB 📚
 
 1. The  find()  Method: Your Go-To Tool 🚀
-The primary way we retrieve data in MongoDB is using the find() method. It's super versatile and lets you specify exactly what you're looking for.
+The primary way we retrieve data in MongoDB is using the find() method.
+It's super versatile and lets you specify exactly what you're looking for.
 
 1.1 Finding All Students 🧑‍🎓
 To get all the documents in the students collection, you use an empty query:
@@ -28,17 +29,20 @@ This will return only the document where the regno field matches "2021IT003". Th
   The second argument { name: 1, age: 1 } is the projection. A value of 1 means the field is included.
   Excluding the _id Field
 
-MongoDB automatically includes the _id field (the unique identifier for each document). If you don't want it, you have to explicitly exclude it:
+MongoDB automatically includes the _id field (the unique identifier for each document).
+If you don't want it, you have to explicitly exclude it:
 
     db.students.find({}, { name: 1, age: 1, _id: 0 })
   _id: 0 means the _id field is excluded from the results.
   
 1.4 Viewing Data in Table Format 📊
+
         MongoDB Compass often displays retrieved data in a table format, which can be very helpful. 
         Each document becomes a row, and the fields are the columns. 
         This makes it easy to see the data in a structured way.
 
 2. Tools You'll Use 🛠️
+   
         MongoDB Shell:
            The command-line interface for interacting with MongoDB. You'll type your find() commands here.
         MongoDB Compass:
