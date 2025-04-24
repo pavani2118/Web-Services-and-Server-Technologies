@@ -1,6 +1,3 @@
-# 🧑‍🎓 Student Database (MongoDB) 📚
-## 🚀 What's Inside?
-
 This showcases how we manage student information using MongoDB. We've got details like:
 
 * **Registration Numbers**: Unique IDs for each student (e.g., `2021IT010`).
@@ -10,15 +7,6 @@ This showcases how we manage student information using MongoDB. We've got detail
 * **GPA**:  Their academic performance.
 * **Gender**:  Student gender.
 * **Skills**:  The cool tech skills they possess (e.g., Java, Python, JS).
-
-## 🗂️ Database Structure
-
-Here's how the data is structured in MongoDB:
-
-* **Database:** `unidb` 📂
-* **Collection:** `students` 🧑‍🎓
-
-Each student's data is stored as a document:
 
 ## 🛠️  How the Data Was Added
 
