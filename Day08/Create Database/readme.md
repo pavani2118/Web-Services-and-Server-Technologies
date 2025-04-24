@@ -15,16 +15,6 @@
 **Database Name:** `unidb`  
 **Collection Name:** `students`  
 
-📸 *Screenshots below for reference:*
-
-### 1️⃣ Creating the Database and Collection
-![Create Database](./create%20database.png)
-
-### 2️⃣ Database Structure in MongoDB Compass
-![MongoDB Compass Output](./output.png)
-
----
-
 ## 📌 Steps Followed
 
 1. Opened **MongoDB Compass**.
@@ -34,8 +24,4 @@
 5. 🎉 Database setup completed!
 
 ---
-
-
-If you liked this project, don't forget to give it a ⭐ on GitHub!
-
 
