@@ -1,4 +1,4 @@
-🔍 Retrieving Data from MongoDB 📚
+## 🔍 Retrieving Data from MongoDB 📚
 
 1. The  find()  Method: Your Go-To Tool 🚀
 The primary way we retrieve data in MongoDB is using the find() method.
@@ -13,7 +13,7 @@ This is like saying "give me everything!" It's useful when you want to see all t
 1.2 Finding a Specific Student 🎯
 If you want to find a particular student, you can specify a query with the fields you know. For example, to find a student by their regno (Registration Number):
   
-    db.students.find({ regno: "2021IT003" })
+          db.students.find({ regno: "2021IT003" })
 This will return only the document where the regno field matches "2021IT003". Think of it as searching for a specific student by their ID.
 
 1.3 Projecting Fields: Getting Only What You Need ✂️
@@ -36,7 +36,6 @@ If you don't want it, you have to explicitly exclude it:
   _id: 0 means the _id field is excluded from the results.
   
 1.4 Viewing Data in Table Format 📊
-
         MongoDB Compass often displays retrieved data in a table format, which can be very helpful. 
         Each document becomes a row, and the fields are the columns. 
         This makes it easy to see the data in a structured way.
